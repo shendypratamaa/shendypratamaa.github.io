@@ -1,0 +1,82 @@
+.bg--primary {
+  background: -webkit-gradient(linear, left top, left bottom, from(#343064), to(#110d34));
+  background: linear-gradient(to bottom, #343064, #110d34);
+}
+
+.bg--secondary {
+  background: -webkit-gradient(linear, left top, left bottom, from(#110d34), to(#343164));
+  background: linear-gradient(to bottom, #110d34, #343164);
+}
+
+.project__cards-purple-cyan {
+  background: -webkit-gradient(linear, left bottom, right top, from(rgba(218, 30, 218, 0.218)), to(rgba(9, 149, 241, 0.348)));
+  background: linear-gradient(to top right, rgba(218, 30, 218, 0.218), rgba(9, 149, 241, 0.348));
+  -webkit-backdrop-filter: blur(1rem);
+          backdrop-filter: blur(1rem);
+}
+
+.project__cards-dark-gray {
+  background: -webkit-gradient(linear, left bottom, right top, from(rgba(54, 54, 54, 0.118)), to(rgba(46, 46, 46, 0.248)));
+  background: linear-gradient(to top right, rgba(54, 54, 54, 0.118), rgba(46, 46, 46, 0.248));
+  -webkit-backdrop-filter: blur(1rem);
+          backdrop-filter: blur(1rem);
+}
+
+.project__cards-cyan-b {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 204, 255, 0.493)), to(rgba(255, 255, 255, 0.185)));
+  background: linear-gradient(to bottom, rgba(0, 204, 255, 0.493), rgba(255, 255, 255, 0.185));
+  -webkit-backdrop-filter: blur(1rem);
+          backdrop-filter: blur(1rem);
+}
+
+.project__cards-dark-blue {
+  background: -webkit-gradient(linear, left bottom, right top, from(rgba(18, 19, 19, 0.238)), to(rgba(101, 180, 253, 0.411)));
+  background: linear-gradient(to top right, rgba(18, 19, 19, 0.238), rgba(101, 180, 253, 0.411));
+  -webkit-backdrop-filter: blur(1rem);
+          backdrop-filter: blur(1rem);
+}
+
+.project__cards-purple-dark {
+  background: -webkit-gradient(linear, left bottom, right top, from(rgba(142, 56, 212, 0.253)), to(rgba(17, 17, 17, 0.585)));
+  background: linear-gradient(to top right, rgba(142, 56, 212, 0.253), rgba(17, 17, 17, 0.585));
+  -webkit-backdrop-filter: blur(1rem);
+          backdrop-filter: blur(1rem);
+}
+
+.bars {
+  background: -webkit-gradient(linear, left bottom, right top, from(rgba(241, 180, 241, 0.118)), to(rgba(191, 204, 212, 0.148)));
+  background: linear-gradient(to top right, rgba(241, 180, 241, 0.118), rgba(191, 204, 212, 0.148));
+  -webkit-backdrop-filter: blur(1rem);
+          backdrop-filter: blur(1rem);
+}
+
+.bars__inner {
+  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 13, 13, 0.471)), color-stop(rgba(209, 93, 219, 0.564)), to(rgba(151, 67, 219, 0.664)));
+  background: linear-gradient(to right, rgba(255, 13, 13, 0.471), rgba(209, 93, 219, 0.564), rgba(151, 67, 219, 0.664));
+  -webkit-backdrop-filter: blur(1rem);
+          backdrop-filter: blur(1rem);
+}
+
+.hire__inner__cards {
+  background: -webkit-gradient(linear, left bottom, right top, from(rgba(160, 118, 118, 0.05)), to(rgba(255, 255, 255, 0.09)));
+  background: linear-gradient(to top right, rgba(160, 118, 118, 0.05), rgba(255, 255, 255, 0.09));
+  -webkit-backdrop-filter: blur(2.2rem);
+          backdrop-filter: blur(2.2rem);
+}
+
+.border-white-sm {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.card-items-left {
+  background: -webkit-gradient(linear, bottom bottom left, from(rgba(219, 20, 20, 0.616)), to(rgba(223, 83, 153, 0.596)));
+  background: linear-gradient(top top right, rgba(219, 20, 20, 0.616), rgba(223, 83, 153, 0.596));
+}
+
+.card__glass {
+  background: -webkit-gradient(linear, left bottom, right top, from(rgba(255, 255, 255, 0.01)), to(rgba(255, 255, 255, 0.09)));
+  background: linear-gradient(to top right, rgba(255, 255, 255, 0.01), rgba(255, 255, 255, 0.09));
+  -webkit-backdrop-filter: blur(1rem);
+          backdrop-filter: blur(1rem);
+}
+/*# sourceMappingURL=main.css.map */
